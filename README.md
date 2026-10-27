@@ -33,11 +33,11 @@ No build step required. Just open the file:
 
 Search for these placeholders in `index.html` and replace them:
 
-- `[Your Name]` — your name
-- `your.email@example.com` — your email
-- `https://github.com/yourusername` — your GitHub URL
-- `https://linkedin.com/in/yourprofile` — your LinkedIn URL
-- `[Your City, Country]` — your location
+- `OKONKWO JOY` — your name
+- `joycomfort12@gmail.com` — your email
+- `https://github.com/Joycomfort` — your GitHub URL
+- `https://linkedin.com/in/okonkwo-joy` — your LinkedIn URL
+- `Nigeria` — your location
 
 ### Add a project
 Duplicate a `<article class="project-card">` block in the Projects section.
@@ -72,11 +72,11 @@ Never put API keys or secrets in frontend code. Use environment variables on you
    git add .
    git commit -m "Initial portfolio"
    git branch -M main
-   git remote add origin https://github.com/yourusername/ai-portfolio.git
+   git remote add origin https://github.com/Joycomfort/ai-portfolio.git
    git push -u origin main
    ```
 3. On GitHub: **Settings → Pages → Source: Deploy from a branch → main / (root) → Save**.
-4. Your site will be live at `https://yourusername.github.io/ai-portfolio/`.
+4. Your site will be live at `https://Joycomfort.github.io/ai-portfolio/`.
 
 ## Deploy to Vercel
 
